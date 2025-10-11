@@ -19,6 +19,11 @@
   <input type="submit" formaction="/action_page2.php" value="Submit as Admin">
 </form>
 
+<div style="background-color:blue">
+  <h1 style="color:yellow">God bless Our homeland Ghana</h1>
+</div>
+
+
 </body>
 </html>
 
