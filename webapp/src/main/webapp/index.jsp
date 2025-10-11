@@ -2,6 +2,10 @@
 <html>
 <body>
 
+<div style="background-color:yellow">
+  <h1 style="color:blue">Heading</h1>
+</div>
+
 </h1><h1 style="color:Tomato;">Welcome to Metright Ghana Ltd.</h1>
 
 <p style="#FF1493">Thank you fro reaching out to us. Please kindly fill out your contact details and we will be in touch shortly</p>
