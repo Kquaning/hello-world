@@ -2,11 +2,16 @@
 <html>
 <body>
 
+</style>
+<body>
+
+<div></div>
+
 <div style="background-color:yellow">
-  <h1 style="color:blue">Heading</h1>
+  <h1 style="color:blue">With God, all things are possible</h1>
 </div>
 
-</h1><h1 style="color:Tomato;">Welcome to Metright Ghana Ltd.</h1>
+</h1><h1 style="color:Tomato;">Welcome to Cape Coast Castle.</h1>
 
 <p style="#FF1493">Thank you fro reaching out to us. Please kindly fill out your contact details and we will be in touch shortly</p>
 
@@ -19,7 +24,7 @@
   <input type="submit" formaction="/action_page2.php" value="Submit as Admin">
 </form>
 
-<div style="background-color:blue">
+<div style="background-color:green">
   <h1 style="color:yellow">God bless Our homeland Ghana</h1>
 </div>
 
