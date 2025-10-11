@@ -4,7 +4,7 @@
 
 </h1><h1 style="color:Tomato;">Welcome to Metright Ghana Ltd.</h1>
 
-<p style="color:MediumSeaGreen;">Thank you fro reaching out to us. Please kindly fill out your contact details and we will be in touch shortly</p>
+<p style="#FF1493">Thank you fro reaching out to us. Please kindly fill out your contact details and we will be in touch shortly</p>
 
 <form action="/action_page.php">
   <label for="fname">First name:</label>
