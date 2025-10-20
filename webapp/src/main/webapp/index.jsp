@@ -25,9 +25,12 @@
 </form>
 
 <div style="background-color:green">
-  <h1 style="color:yellow">God bless Our homeland Ghana</h1>
+  <h1 style="color:yellow">God bless Our Homeland Ghana</h1>
 </div>
 
+
+
+<div style="border: 1px solid black">The Land of the Free</div>
 
 </body>
 </html>
