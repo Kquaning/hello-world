@@ -27,7 +27,7 @@
 <span style='font-size:100px;'>&#127979;</span>
 
 <div style="background-color:green">
-  <h1 style="color:cyan">God bless Our Homeland Ghana</h1>
+  <h1 style="color:cyan">May the good Lord bless Our Homeland Ghana</h1>
 </div>
 
 
