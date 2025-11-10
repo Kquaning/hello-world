@@ -24,8 +24,10 @@
   <input type="submit" formaction="/action_page2.php" value="Submit as Admin">
 </form>
 
+<span style='font-size:100px;'>&#127979;</span>
+
 <div style="background-color:green">
-  <h1 style="color:yellow">God bless Our Homeland Ghana</h1>
+  <h1 style="color:cyan">God bless Our Homeland Ghana</h1>
 </div>
 
 
