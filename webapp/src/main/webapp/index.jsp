@@ -8,7 +8,7 @@
 <div></div>
 
 <div style="background-color:green">
-  <h1 style="color:blue">With God, all things are possible</h1>
+  <h1 style="color:white">With God, all things are possible</h1>
 </div>
 
 </h1><h1 style="color:Tomato;">Welcome to Cape Coast Castle.</h1>
@@ -26,7 +26,7 @@
 
 <span style='font-size:100px;'>&#127979;</span> <span style='font-size:100px;'>&#128331;</span>
 <div style="background-color:green">
-  <h1 style="color:cyan">May the good Lord bless Our Homeland Ghana</h1>
+  <h1 style="color:white">May the good Lord bless Our Homeland Ghana</h1>
 </div>
 
 
