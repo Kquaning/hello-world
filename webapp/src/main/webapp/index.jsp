@@ -7,7 +7,7 @@
 
 <div></div>
 
-<div style="background-color:green">
+<div style="background-color:cyan">
   <h1 style="color:white">With God, all things are possible</h1>
 </div>
 
